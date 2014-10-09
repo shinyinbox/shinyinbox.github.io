@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: pretty
 title:  "Window Management with BetterTouchTool"
 date:   2014-10-08 12:00:00
 tags: [BetterTouchTool, Window Management]

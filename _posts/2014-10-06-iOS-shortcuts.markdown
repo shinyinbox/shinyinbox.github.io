@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: pretty
 title:  "Keyboard Shortcuts in iOS 8"
 date:   2014-10-06 12:12:00
 tags: [Keyboard Shortcuts]
