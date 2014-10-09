@@ -30,4 +30,4 @@ For getting work done, I use:
 * [Soulver](http://www.acqualia.com/soulver/): for the occasional document with numbers in it.
 * [Anki](http://ankisrs.net): for flashcards.
 
-This site is a static blog running on Jekyll on GitHub Pages.
+This site is a static blog powered by [Jekyll](http://jekyllrb.com) on [GitHub Pages](https://pages.github.com).
