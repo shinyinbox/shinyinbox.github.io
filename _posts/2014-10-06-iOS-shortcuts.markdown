@@ -2,7 +2,7 @@
 layout: post
 title:  "Keyboard Shortcuts in iOS 8"
 date:   2014-10-06 12:12:00
-tags: Shortcuts
+tags: [Keyboard Shortcuts]
 ---
 Speed up typing on iOS with keyboard shortcuts **(Settings → General → Keyboards → Shortcuts)**. In iOS 8, the QuickType bar shows shortcuts before they expand, and I've started using them a lot more. Some of my favorites:
 

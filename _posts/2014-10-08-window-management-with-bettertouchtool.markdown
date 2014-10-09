@@ -2,7 +2,7 @@
 layout: post
 title:  "Window Management with BetterTouchTool"
 date:   2014-10-08 12:00:00
-tags: BetterTouchTool
+tags: [BetterTouchTool, Window Management]
 ---
 I previously used [Moom](http://manytricks.com/moom/) for window management. As a fan of the two-pane layout, **Control + Option + Command + Arrow Key** moved a window left or right, with the up arrow maximizing, and the down arrow hiding the window.
 
