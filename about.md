@@ -6,7 +6,7 @@ permalink: /about/
 
 I’m a non-programmer grad student, and made this site to share the simple productivity hacks I find useful, mostly on Mac and iOS.
 
-## Software I use: 
+#### Software I use: 
 
 * [Keyboard Maestro](http://keyboardmaestro.com): most of my hacks are based on this because it's so versatile.
 * [BetterTouchTool](http://www.boastr.net): for window management gestures.
@@ -19,7 +19,7 @@ I’m a non-programmer grad student, and made this site to share the simple prod
 * [OmniDiskSweeper](http://www.omnigroup.com/more): for exploring what's taking up space on my drive. It's super simple, but I find it more readable than the more popular [DaisyDisk](http://www.daisydiskapp.com).
 * [Arq](http://www.haystacksoftware.com/arq/): for backups to Google Drive (along with a local Time Machine backup).
 
-## For getting work done, I use:
+#### For getting work done, I use:
 
 * [Pages](https://www.apple.com/mac/pages/) and [Numbers](https://www.apple.com/mac/numbers/)
 * [Scrivener](http://www.literatureandlatte.com/scrivener.php): for larger writing projects.
