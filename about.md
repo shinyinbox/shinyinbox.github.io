@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I’m not a programmer, but wanted to share the simple productivity hacks I find useful, mostly on Mac and iOS.
+I’m a non-programmer grad student, and made this site to share the simple productivity hacks I find useful, mostly on Mac and iOS.
 
 Software I use: 
 
