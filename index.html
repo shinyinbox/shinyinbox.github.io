@@ -1,19 +1,15 @@
 ---
 layout: default
 ---
-
-<div class="home">
-  <ul class="post-list">
+<div class="post">
+  <header class="post-header">
     {% for post in site.posts %}
-  <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-  </p>
+    <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+  </header>
   <div class="content">
     {{ post.content }}
-  <br>
   </div>
+  <br>
 {% endfor %}
-  </ul>
-
 </div>
