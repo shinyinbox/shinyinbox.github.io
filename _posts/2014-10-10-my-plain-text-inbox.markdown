@@ -26,7 +26,7 @@ Selecting any text on my system brings up the following PopClip options:
 
 <p style="text-align: center;"><img src="/images/2014-10-10-my-plain-text-inbox-5.png" alt="PopClip Inbox Extension" /></p>
 
-Clicking on "Inbox" sends the selected text or link to my Inbox.txt file via the following Keyboard Maestro macro: 
+Clicking "Inbox" sends the selected text or link to my Inbox.txt file via the following Keyboard Maestro macro: 
 
 <p style="text-align: center;"><img src="/images/2014-10-10-my-plain-text-inbox-6.png" alt="PopClip Keyboard Maestro macro for Inbox" /></p>
 
