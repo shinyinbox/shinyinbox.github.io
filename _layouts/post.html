@@ -7,6 +7,6 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
   </header>
   <article class="post-content">
-    {{ content }}
+    {{ content | replace:'<p><img','<p style="text-align: center;"><img' }}
   </article>
 </div>
