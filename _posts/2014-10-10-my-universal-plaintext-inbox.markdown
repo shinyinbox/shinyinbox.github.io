@@ -30,7 +30,7 @@ Clicking on "Inbox" sends the selected text or link to my Inbox.txt file via the
 
 <p style="text-align: center;"><img src="/images/2014-10-10-my-universal-plaintext-inbox-6.png" alt="PopClip Keyboard Maestro macro for Inbox" /></p>
 
-**The Drafts Action:** By far, the easier piece of this system was setting an action in the amazing [Drafts](http://agiletortoise.com/drafts/) app for iOS. The custom Dropbox action was made as shown below, and executed by selecting the "Inbox" action.
+**The Drafts Action:** By far, the easier piece of this system was setting up an action in the amazing [Drafts](http://agiletortoise.com/drafts/) app for iOS. The custom Dropbox action was made as shown below, and executed by selecting the "Inbox" action.
 
 <p style="text-align: center;"><img src="/images/2014-10-10-my-universal-plaintext-inbox-7.png" alt="PopClip Keyboard Maestro macro for Inbox" /></p>
 
