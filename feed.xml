@@ -4,6 +4,7 @@ title: RSS
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+<description>{{ post.content | xml_escape | relative_urls_to_absolute }}</description>
  
  <title>Shiny Inbox</title>
  <link href="http://www.shinyinbox.com/feed.xml" rel="self"/>

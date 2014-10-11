@@ -4,7 +4,7 @@ email: shinyinbox@gmail.com
 description: >
   Productivity hacks.
 baseurl: ""
-url: "http://www.shinyinbox.com"
+url: http://www.shinyinbox.com
 twitter_username: shinyinbox
 permalink: pretty
 
