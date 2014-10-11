@@ -34,4 +34,4 @@ Clicking on "Inbox" sends the selected text or link to my Inbox.txt file via the
 
 <p style="text-align: center;"><img src="/images/2014-10-10-my-universal-plaintext-inbox-7.png" alt="PopClip Keyboard Maestro macro for Inbox" /></p>
 
-So that's it! Took some time (okay, lots) to set up, but I use it all the time, especially the PopClip extension and Drafts action. Having this single inbox for capture of random information (text, links, quotes, code snippets, telephone numbers, reminders) is a big relief, because I can trust that when I send something there, I will always know where to find it. Plus it's stored in plaintext, and recent versions are accessible on Dropbox and on TimeMachine.
+So that's it! Took some time (okay, lots) to set up, but I use it all the time, especially the PopClip extension and Drafts action. Having this single inbox for capture of random information (text, links, quotes, code snippets, telephone numbers, reminders) is a big relief, because I can trust that when I send something there, I will always know where to find it. Plus it's stored in plaintext, and older versions are backed up on Dropbox and TimeMachine.
