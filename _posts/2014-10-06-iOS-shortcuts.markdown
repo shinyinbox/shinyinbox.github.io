@@ -11,5 +11,3 @@ Speed up typing on iOS with keyboard shortcuts **(Settings → General → Keybo
 * Emoji shortcuts are faster than switching to another keyboard.
  
    ![iOS Keyboard Shortcut Settings](/images/2014-10-06-ios-shortcuts.png)
-   
-style="text-align: center;"
