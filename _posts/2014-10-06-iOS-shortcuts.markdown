@@ -8,6 +8,6 @@ Speed up typing on iOS with keyboard shortcuts **(Settings → General → Keybo
 
 * [The @@ shortcut](http://rocketink.net/2014/09/ios-@@-shortcut.html) for my email addresses.
 * Double letters for my most common words: "tt" for "Thanks!"
-* Emoji shortcuts are faster than switching to another keyboarrrd.
+* Emoji shortcuts are faster than switching to another keyboard.
  
  <p style="text-align: center;"><img src="/images/2014-10-06-ios-shortcuts.png" alt="iOS Keyboard Shortcut Settings" /></p>
