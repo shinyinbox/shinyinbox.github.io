@@ -20,7 +20,7 @@ title: RSS
    <link href="http://www.shinyinbox.com/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://www.shinyinbox.com/{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape | replace:'src=&quot;','src=&quot;http://www.shinyinbox.com' | replace:'&lt;p&gt;&lt;img','&lt;p style=&quot;text-align&colon; center&semi;&quot;&gt;&lt;img' }}</content>
+   <content type="html">{{ post.content | xml_escape | replace:'src=&quot;','src=&quot;http://www.shinyinbox.com' | replace:'&lt;p&gt;&lt;img','&lt;p style=&quot;text-align: center&semi;&quot;&gt;&lt;img' }}</content>
  </entry>
  {% endfor %}
  
