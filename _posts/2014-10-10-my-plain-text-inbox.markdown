@@ -10,7 +10,7 @@ Quickly capturing information is an important part of my workflow. Quick Entry s
  
  ![Inbox in nvALT and Editorial](/images/2014-10-10-my-plain-text-inbox-1.png)
 
-**The Keyboard Maestro macro:** Not being a programmer, I rely on [Keyboard Maestro](http://keyboardmaestro.com/) to hack together what I'm not skilled enough to do more elegantly. This macro is no exception:
+**The Keyboard Maestro macro:** Not being a programmer, I rely on [Keyboard Maestro](http://keyboardmaestro.com/) to hack together what I'm not skilled enough to do more elegantly. [This macro](/files/2014-10-10-sendtoinbox.kmmacros) is no exception:
 
 ![Add to Inbox Keyboard Maestro macro](/images/2014-10-10-my-plain-text-inbox-2.png)
 
@@ -18,7 +18,7 @@ Hitting **Control + Option + Command + I** brings up a text entry field. The cli
 
 ![Add to Inbox Keyboard Maestro text entry field](/images/2014-10-10-my-plain-text-inbox-3.png)
 
-**The PopClip extension:** [PopClip](http://pilotmoon.com/popclip/) is one of the fastest ways to do something with selected text. I frequently use it to do a Google search on selected text, copy text, or open a selected link. It occurred to me that I could make my Inbox text entry faster by making a PopClip extension to send the selected text to the Inbox. Because I am not a programmer, I opted for a simpler solution than writing a complete PopClip extension (which I'm sure is both possible and more elegant). Instead, I made a very simple PopClip extension called "Inbox" that performed the singular task of firing off a keyboard shortcut that then triggered a Keyboard Maestro macro. Sounds convoluted, but it has worked flawlessly for me, was easy to implement, and was easy to tweak in the familiar and accessible Keyboard Maestro interface. The PopClip extension contains only the required Config.plist file and the following super-short AppleScript:
+**The PopClip extension:** [PopClip](http://pilotmoon.com/popclip/) is one of the fastest ways to do something with selected text. I frequently use it to do a Google search on selected text, copy text, or open a selected link. It occurred to me that I could make my Inbox text entry faster by making a PopClip extension to send the selected text to the Inbox. Because I am not a programmer, I opted for a simpler solution than writing a complete PopClip extension (which I'm sure is both possible and more elegant). Instead, I made a very simple [PopClip extension](/files/2014-10-10-sendtoinbox.popclipext.zip) called "Inbox" that performed the singular task of firing off a keyboard shortcut that then triggered a Keyboard Maestro macro. Sounds convoluted, but it has worked flawlessly for me, was easy to implement, and was easy to tweak in the familiar and accessible Keyboard Maestro interface. The PopClip extension contains only the required Config.plist file and the following super-short AppleScript:
 
 ![PopClip AppleScript](/images/2014-10-10-my-plain-text-inbox-4.png)
 
@@ -26,7 +26,7 @@ Selecting any text on my system brings up the following PopClip options:
 
 ![PopClip Inbox Extension](/images/2014-10-10-my-plain-text-inbox-5.png)
 
-Clicking "Inbox" sends the selected text or link to my Inbox.txt file via the following Keyboard Maestro macro: 
+Clicking "Inbox" sends the selected text or link to my Inbox.txt file via the following Keyboard Maestro [macro](/files/2014-10-10-popclipselectiontoinbox.kmmacros): 
 
 ![PopClip Keyboard Maestro macro for Inbox](/images/2014-10-10-my-plain-text-inbox-6.png)
 

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>IsActive</key>
+		<false/>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Buttons</key>
+						<array>
+							<dict>
+								<key>Button</key>
+								<string>OK</string>
+							</dict>
+							<dict>
+								<key>Button</key>
+								<string>Cancel</string>
+								<key>Cancel</key>
+								<true/>
+							</dict>
+						</array>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>PromptForUserInput</string>
+						<key>Prompt</key>
+						<string></string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Title</key>
+						<string></string>
+						<key>Variables</key>
+						<array>
+							<dict>
+								<key>Default</key>
+								<string>%CurrentClipboard%</string>
+								<key>Variable</key>
+								<string>Inbox</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>Destination</key>
+						<string>Variable</string>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>ReadFile</string>
+						<key>Name</key>
+						<string>4653B725-CF24-4B12-8ABA-1485ECEE0A05</string>
+						<key>RedundandDisplayName</key>
+						<string>Default Clipboard</string>
+						<key>Source</key>
+						<string>/Users/shinyinbox/Dropbox/Apps/Notes/Inbox.txt</string>
+						<key>Variable</key>
+						<string>CurrentInbox</string>
+					</dict>
+					<dict>
+						<key>Append</key>
+						<false/>
+						<key>Destination</key>
+						<string>/Users/shinyinbox/Dropbox/Apps/Notes/Inbox.txt</string>
+						<key>Encoding</key>
+						<string>UTF8</string>
+						<key>Format</key>
+						<string>PlainText</string>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>WriteFile</string>
+						<key>Name</key>
+						<string>4653B725-CF24-4B12-8ABA-1485ECEE0A05</string>
+						<key>RedundandDisplayName</key>
+						<string>Default Clipboard</string>
+						<key>Source</key>
+						<string>Text</string>
+						<key>Text</key>
+						<string>%Variable%Inbox%
+   -%ICUDateTime%EEEE%, %ShortDate%, %ShortTime%
+
+%Variable%CurrentInbox%</string>
+						<key>Variable</key>
+						<string>Inbox</string>
+					</dict>
+				</array>
+				<key>IsActive</key>
+				<false/>
+				<key>ModificationDate</key>
+				<real>434681068.03944099</real>
+				<key>Name</key>
+				<string>Send to Inbox</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>34</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>6400</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>D6329825-9C46-43E1-B480-5838363060FE</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Shiny Inbox Demos</string>
+		<key>UID</key>
+		<string>1027B382-E9BA-4157-AC5D-35C91F8EF23B</string>
+	</dict>
+</array>
+</plist>
