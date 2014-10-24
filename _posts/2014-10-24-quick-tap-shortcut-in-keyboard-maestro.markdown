@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick-Tap Shortcut in Keyboard Maestro"
+title:  "Quick-Tap Shortcuts in Keyboard Maestro"
 date:   2014-10-24 7:00:00
 tags: [Keyboard Maestro, Shortcuts]
 ---
