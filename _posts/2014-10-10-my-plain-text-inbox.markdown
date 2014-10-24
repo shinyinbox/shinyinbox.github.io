@@ -14,7 +14,7 @@ Quickly capturing information is an important part of my workflow. Quick Entry s
 
 ![Add to Inbox Keyboard Maestro macro](/images/2014-10-10-my-plain-text-inbox-2.png)
 
-Hitting **Control + Option + Command + I** brings up a text entry field. The clipboard is pre-filled, so hitting return will add that to the Inbox. It also opens with the clipboard text selected, so you can start typing right away, without clearing the contents of the field. Hit return and the text is entered. Behind the scenes, the macro reads the contents of the current Inbox.txt file to a variable, then prepends the inputted text along with a timestamp.
+Hitting `Control + Option + Command + I` brings up a text entry field. The clipboard is pre-filled, so hitting return will add that to the Inbox. It also opens with the clipboard text selected, so you can start typing right away, without clearing the contents of the field. Hit return and the text is entered. Behind the scenes, the macro reads the contents of the current Inbox.txt file to a variable, then prepends the inputted text along with a timestamp.
 
 ![Add to Inbox Keyboard Maestro text entry field](/images/2014-10-10-my-plain-text-inbox-3.png)
 

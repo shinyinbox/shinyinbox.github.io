@@ -60,6 +60,16 @@ blockquote {
   font-style: italic; }
   blockquote > :last-child {
     margin-bottom: 0; }
+    
+code {
+    font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+    font-size: 0.8em;
+    background: #eee;
+    border-radius: 0.5em;
+    border: 1px solid #bbb;
+    overflow-x: auto;
+    padding: 0.2em 0.4em;
+}
 
 /**Wrapper**/
 .wrapper {
